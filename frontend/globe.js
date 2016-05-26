@@ -34,7 +34,7 @@ var material ;
 // 	}
 // );
 var material = new THREE.MeshPhongMaterial({
-  map: THREE.ImageUtils.loadTexture('img/risk11.png')
+  map: THREE.ImageUtils.loadTexture('img/risk15.png')
 });
 // material.bumpMap = THREE.ImageUtils.loadTexture('img/earthbump1k.jpg');
 // material.bumpScale = 0.05;
